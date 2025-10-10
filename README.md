@@ -1,6 +1,8 @@
 # Ming Yang
 
-Hi there 👋 Welecome to my site~
+Hi there 👋 I'am Ming Yang 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PUITAR&left_color=green&right_color=red). 
+Welecome to my site~
 
 I am a second-year Master at [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Dr. [Weiguo Zheng](https://weiguozheng.github.io/). 
 My research focuses on LLM related technologies, including
@@ -34,4 +36,11 @@ Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 [[link]](https://doi.org/10.1145/3711896.3736997) 
 [[code]](https://github.com/PUITAR/Hi-PNG)
 
-[![Puitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PUITAR&theme=light&show_icons=true)](https://github.com/PUITAR)
+## Status
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PUITAR&theme=light&show_icons=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUITAR&layout=compact&theme=light" height="160" />
+
+</div>

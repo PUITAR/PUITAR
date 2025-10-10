@@ -34,4 +34,4 @@ Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 [[link]](https://doi.org/10.1145/3711896.3736997) 
 [[code]](https://github.com/PUITAR/Hi-PNG)
 
-[![Puitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PUITAR&theme=dark&show_icons=true)](https://github.com/PUITAR)
+[![Puitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PUITAR&theme=light&show_icons=true)](https://github.com/PUITAR)

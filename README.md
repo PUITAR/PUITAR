@@ -8,12 +8,8 @@ My research focuses on LLM related technologies, including
 - Retrieval-Augmented Generation (RAG)
 - Vector Retrieval (Approximate Nearest Neighbor Search, ANNS)
 - LLM post training, e.g., Reinforcement Learning with Verifiable Rewards (RLVR) and SFT.
-- 
-I expect to graduate in July 2027.
 
-| Page                                               | Contact                                   |
-| -------------------------------------------------- | ----------------------------------------- |
-| [Github](https://github.com/foru17)                | [Mail: yangm24@m.fudan.edu.cn](yangm24@m.fudan.edu.cn) |
+I expect to graduate in July 2027. For any problem, you can contact me by [yangm24@m.fudan.edu.cn](yangm24@m.fudan.edu.cn).
 
 ## News
 - **[2025/09]** New work about LLM RLVR: [paper link](https://www.arxiv.org/abs/2509.25240)

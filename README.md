@@ -26,6 +26,7 @@ Thirty-eighth Annual Conference on Neural Information Processing Systems.
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2024/file/bab1486cec466c980b40e7d633dd4bbc-Paper-Conference.pdf) 
 [[code]](https://github.com/PUITAR/CSPG) 
 [[slides]](https://neurips.cc/media/neurips-2024/Slides/93606.pdf)
+[[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93606.png?t=1730868292.2146382)
 
 - **Hi-PNG: Efficient Interval-Filtering ANNS via Hierarchical Interval Partition Navigating Graph.**   
 Ming Yang, <u>Yuzheng Cai</u>, and Weiguo Zheng.   

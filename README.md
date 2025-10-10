@@ -1,8 +1,6 @@
 # Ming Yang
 
-Hi there 👋 I'am Ming Yang 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PUITAR&left_color=green&right_color=red). 
-Welecome to my site~
+Hi there 👋 I'am Ming Yang. Welecome to my site~
 
 I am a second-year Master at [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Dr. [Weiguo Zheng](https://weiguozheng.github.io/). 
 My research focuses on LLM related technologies, including

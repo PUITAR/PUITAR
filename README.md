@@ -12,7 +12,7 @@ My research focuses on LLM related technologies, including
 I expect to graduate in July 2027. For any problem, you can contact me by [yangm24@m.fudan.edu.cn](yangm24@m.fudan.edu.cn).
 
 ## News
-- **[2025/09]** New work about LLM RLVR: [paper link](https://www.arxiv.org/abs/2509.25240)
+- **[2025/09]** New work about LLM RLVR: [arXiv](https://www.arxiv.org/abs/2509.25240)
 - **[2025/05]** One paper accpeted by **KDD 2025**
 - **[2024/09]** One paper accepted by **NeurIPS 2024**
 

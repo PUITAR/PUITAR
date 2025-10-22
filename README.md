@@ -20,8 +20,7 @@ I expect to graduate in July 2027. For any problem, you can contact me by [yangm
 
 - **CSPG: Crossing Sparse Proximity Graphs for Approximate Nearest Neighbor Search.** <br>
 *Ming Yang*, Yuzheng Cai, and Weiguo Zheng. <br>
-Thirty-eighth Annual Conference on Neural Information Processing Systems.
-<span style="color: #0056b2;">NeurIPS 2024.</span> <br>
+Thirty-eighth Annual Conference on Neural Information Processing Systems. NeurIPS 2024. <br>
 [[link]](https://neurips.cc/virtual/2024/poster/93606) 
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2024/file/bab1486cec466c980b40e7d633dd4bbc-Paper-Conference.pdf) 
 [[code]](https://github.com/PUITAR/CSPG) 
@@ -30,8 +29,7 @@ Thirty-eighth Annual Conference on Neural Information Processing Systems.
 
 - **Hi-PNG: Efficient Interval-Filtering ANNS via Hierarchical Interval Partition Navigating Graph.** <br>
 *Ming Yang*, Yuzheng Cai, and Weiguo Zheng. <br>
-Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining.   
-<span style="color: #0056b2;">**KDD 2025.**</span> <br>
+Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining. KDD 2025. <br>
 [[link]](https://doi.org/10.1145/3711896.3736997) 
 [[code]](https://github.com/PUITAR/Hi-PNG)
 

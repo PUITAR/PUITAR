@@ -1,5 +1,7 @@
 # Ming Yang
 
+<a href="https://u8views.com/github/PUITAR"><img src="https://u8views.com/api/v1/github/profiles/79465126/views/day-week-month-total-count.svg"></a>
+
 Hi there 👋 I'am Ming Yang. Welecome to my site~
 
 I am a second-year Master at [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Dr. [Weiguo Zheng](https://weiguozheng.github.io/). 

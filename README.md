@@ -8,7 +8,7 @@ I am a second-year Master at [School of Data Science](https://sds.fudan.edu.cn/)
 My research focuses on LLM related technologies, including
 
 - Retrieval-Augmented Generation (RAG) and Vector Retrieval (Approximate Nearest Neighbor Search, ANNS)
-- LLM post training, e.g., Reinforcement Learning with Verifiable Rewards (RLVR) and SFT.
+- LLM post training, e.g., Reinforcement Learning with Verifiable Rewards (RLVR) and Supervised Fine-Tuning (SFT).
 
 I expect to graduate in July 2027. For any problem, you can contact me by [yangm24@m.fudan.edu.cn](yangm24@m.fudan.edu.cn).
 

@@ -1,4 +1,5 @@
-<img width="357" height="313" alt="image" src="https://github.com/user-attachments/assets/614ce916-d10c-4b0c-a354-949475555ded" /># Ming Yang
+<!-- <img width="357" height="313" alt="image" src="https://github.com/user-attachments/assets/614ce916-d10c-4b0c-a354-949475555ded" /> -->
+# Ming Yang
 
 <a href="https://u8views.com/github/PUITAR"><img src="https://u8views.com/api/v1/github/profiles/79465126/views/day-week-month-total-count.svg"></a>
 

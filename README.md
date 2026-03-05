@@ -1,4 +1,4 @@
-# Ming Yang
+<img width="357" height="313" alt="image" src="https://github.com/user-attachments/assets/614ce916-d10c-4b0c-a354-949475555ded" /># Ming Yang
 
 <a href="https://u8views.com/github/PUITAR"><img src="https://u8views.com/api/v1/github/profiles/79465126/views/day-week-month-total-count.svg"></a>
 
@@ -13,6 +13,7 @@ My research focuses on LLM related technologies, including
 I expect to graduate in July 2027. For any problem, you can contact me by [yangm24@m.fudan.edu.cn](yangm24@m.fudan.edu.cn).
 
 ## News
+- **[2026/03]** Our open-source multi-agent systems for presentation delivery is coming [DeepSlide](https://github.com/PUITAR/DeepSlide)
 - **[2026/02]** New work about Multi-turn tool-integrated LLM reasoning reinforcement [arXiv](https://arxiv.org/pdf/2601.22776)
 - **[2025/09]** New work about LLM RLVR [arXiv](https://www.arxiv.org/abs/2509.25240)
 - **[2025/05]** One paper accpeted by **KDD 2025**

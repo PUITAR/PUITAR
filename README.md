@@ -7,11 +7,12 @@ Hi there 👋 I'am Ming Yang. Welecome to my site~
 
 I am a second-year Master at [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Dr. [Weiguo Zheng](https://weiguozheng.github.io/). 
 My research focuses on LLM related technologies, including
+- Retrieval-Augmented Generation (RAG) and Approximate Nearest Neighbor Search (ANNS);
+- LLM Application Algorithm, including RLVR, SFT, and multi-turn tool-integrated reasoning;
+- Agentic System, with an interest in turning foundation models into usable products.
 
-- Retrieval-Augmented Generation (RAG) and Vector Retrieval (Approximate Nearest Neighbor Search, ANNS)
-- LLM post training, e.g., Reinforcement Learning with Verifiable Rewards (RLVR) and Supervised Fine-Tuning (SFT).
-
-I expect to graduate in July 2027. For any problem, you can contact me by [yangm24@m.fudan.edu.cn](yangm24@m.fudan.edu.cn).
+I expect to graduate in July 2027 and I am actively seeking opportunities where I can contribute to LLM systems, AI reasoning/search, and agent products.
+Please contact me by [yangm24@m.fudan.edu.cn](yangm24@m.fudan.edu.cn).
 
 ## News
 - **[2026/03]** Our open-source multi-agent systems for presentation delivery is coming [DeepSlide](https://github.com/PUITAR/DeepSlide)
@@ -20,7 +21,7 @@ I expect to graduate in July 2027. For any problem, you can contact me by [yangm
 - **[2025/05]** One paper accpeted by **KDD 2025**
 - **[2024/09]** One paper accepted by **NeurIPS 2024**
 
-## Pulications
+## Selected Pulications
 
 - **CSPG: Crossing Sparse Proximity Graphs for Approximate Nearest Neighbor Search.** <br>
 *Ming Yang*, Yuzheng Cai, and Weiguo Zheng. <br>
@@ -37,3 +38,23 @@ Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 [[link]](https://doi.org/10.1145/3711896.3736997) 
 [[code]](https://github.com/PUITAR/Hi-PNG)
 
+## Experience
+- **Ant Group — LLM Application Algorithm Intern (AI4Data, Tiansuan Lab · Jun 2025 – Jan 2026)**
+  - Solved a critical infrastructure issue in the VeRL + vLLM training stack under none-Nvidia GPU + FSDP settings by fixing tensor-view / protobuf synchronization problems, improving stability on internal hardware.
+  - Led benchmark construction for related bussiness with AI search and proposed a business-oriented reinforcement strategy for AI search.
+  - Produced multiple research outputs, including HAMMER, DiPO, and TSPO.
+
+- **Lingjun Investment — LLM Quant Application Algorithm Intern (Dec 2024 – Apr 2025)**
+  - Built an end-to-end financial report analysis framework for long-document LLM applications
+  - Designed multiple information factors for financial text understanding, including confidence expression, positional signals, information density, and structure-aware indicators
+  - Closed the loop between data construction and model optimization; improved extraction success rate from 57.3% to 82.7% using rule-based data generation and LlamaFactory fine-tuning
+
+- **CSDN — NLP Algorithm Intern (Mar 2024 – Jun 2024)**
+  - Contributed to ([CSDN Tech AI Chatbot](https://ai.csdn.net/chat/)), an AI QA product for the developer ecosystem
+  - Built data filtering and fine-tuning pipelines for technical QA using Qwen1.5-32B LoRA
+
+## Ongoing Research
+- HAMMER: Hamiltonian Curiosity Augmented Large Language Model Reinforcement (first author, under review)
+- DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off (co-author, under review)
+- TSPO: Breaking the Double Homogenization Dilemma in Multi-turn Search Policy Optimization (co-author, under review)
+- DeepSlide: From Artifacts to Presentation Delivery (first author, project lead, under review)

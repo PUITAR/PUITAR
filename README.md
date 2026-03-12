@@ -11,8 +11,7 @@ My research focuses on LLM related technologies, including
 - LLM Application Algorithm, including RLVR, SFT, and multi-turn tool-integrated reasoning;
 - Agentic System, with an interest in turning foundation models into usable products.
 
-I expect to graduate in July 2027 and I am actively seeking opportunities where I can contribute to LLM systems, AI reasoning/search, and agent products.
-Please contact me by [yangm24@m.fudan.edu.cn](yangm24@m.fudan.edu.cn).
+I am a recipient of both the National Scholarship for Undergraduate and Graduate Students. With an expected graduation in July 2027, I am actively seeking opportunities to contribute to LLM systems, AI reasoning/search, and AI agent products.
 
 ## News
 - **[2026/03]** Our open-source multi-agent systems for presentation delivery is coming [DeepSlide](https://github.com/PUITAR/DeepSlide)

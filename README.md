@@ -5,7 +5,7 @@
 
 Hi there 👋 I'am Ming Yang. Welecome to my site~
 
-I am a second-year Master at [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Dr. [Weiguo Zheng](https://weiguozheng.github.io/). 
+I am a second-year Master at [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Prof. [Weiguo Zheng](https://weiguozheng.github.io/). 
 My research focuses on LLM related technologies, including
 - Retrieval-Augmented Generation (RAG) and Approximate Nearest Neighbor Search (ANNS);
 - LLM Application Algorithm, including RLVR, SFT, and multi-turn tool-integrated reasoning;

@@ -14,8 +14,8 @@ My research focuses on LLM related technologies, including
 I am a recipient of both the National Scholarship for Undergraduate and Graduate Students. With an expected graduation in July 2027, I am actively seeking opportunities to contribute to LLM systems, AI reasoning/search, and AI agent products.
 
 ## News
+- **[2026/02]** One paper accepted by **ACL 2026** [arXiv](https://arxiv.org/pdf/2601.22776)
 - **[2026/03]** Our open-source multi-agent systems for presentation delivery is coming [DeepSlide](https://github.com/PUITAR/DeepSlide)
-- **[2026/02]** New work about Multi-turn tool-integrated LLM reasoning reinforcement [arXiv](https://arxiv.org/pdf/2601.22776)
 - **[2025/09]** New work about LLM RLVR [arXiv](https://www.arxiv.org/abs/2509.25240)
 - **[2025/05]** One paper accpeted by **KDD 2025**
 - **[2024/09]** One paper accepted by **NeurIPS 2024**

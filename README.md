@@ -6,7 +6,8 @@
 Hi there 👋 I'am Ming Yang. Welecome to my site~
 
 I am a second-year Master at [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Prof. [Weiguo Zheng](https://weiguozheng.github.io/). 
-My research focuses on LLM related technologies, including
+My research focuses on LLM/IR related technologies, including
+- Generative Retrieval for Industrial-Scale Infomation Retrieval Systems
 - Retrieval-Augmented Generation (RAG) and Approximate Nearest Neighbor Search (ANNS);
 - LLM Application Algorithm, including RLVR, SFT, and multi-turn tool-integrated reasoning;
 - Agentic System, with an interest in turning foundation models into usable products.
@@ -43,6 +44,9 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 [[link]](https://arxiv.org/abs/2601.22776)
 
 ## Experience
+- **Kuaishou KStar Intern ([Unisearch](https://arxiv.org/abs/2509.06887) Group, Mar 2026 – Present)**
+  - Generative Retrieval for Industrial-Scale Infomation Retrieval Systems
+  
 - **Ant Group — LLM Application Algorithm Intern (AI4Data, Tiansuan Lab · Jun 2025 – Jan 2026)**
   - Solved a critical infrastructure issue in the VeRL + vLLM training stack under none-Nvidia GPU + FSDP settings by fixing tensor-view / protobuf synchronization problems, improving stability on internal hardware.
   - Led benchmark construction for related bussiness with AI search and proposed a business-oriented reinforcement strategy for AI search.
@@ -60,5 +64,4 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 ## Ongoing Research
 - HAMMER: Hamiltonian Curiosity Augmented Large Language Model Reinforcement (first author, under review)
 - DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off (co-author, under review)
-- TSPO: Breaking the Double Homogenization Dilemma in Multi-turn Search Policy Optimization (co-author, under review)
 - DeepSlide: From Artifacts to Presentation Delivery (first author, project lead, under review)

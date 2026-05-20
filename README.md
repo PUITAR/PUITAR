@@ -42,6 +42,7 @@ Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 *Shichao Ma, Zhiyuan Ma, Ming Yang, Xiaofan Li, Xing Wu, Jintao Du, Yu Cheng, Weiqiang Wang, Qiliang Liu, Zhengyang Zhou, Yang Wang. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). <br>
 [[link]](https://arxiv.org/abs/2601.22776)
+[[code]](https://github.com/Flipped-May/TSPO)
 
 ## Experience
 - **Kuaishou KStar Intern ([Unisearch](https://arxiv.org/abs/2509.06887) Group, Mar 2026 – Present)**

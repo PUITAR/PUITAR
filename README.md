@@ -39,7 +39,7 @@ Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 [[code]](https://github.com/PUITAR/Hi-PNG)
 
 - **TSPO: Breaking the Double Homogenization Dilemma in Multi-turn Search Policy Optimization.** <br>
-*Shichao Ma, Zhiyuan Ma, Ming Yang, Xiaofan Li, Xing Wu, Jintao Du, Yu Cheng, Weiqiang Wang, Qiliang Liu, Zhengyang Zhou, Yang Wang. <br>
+Shichao Ma, Zhiyuan Ma, *Ming Yang*, Xiaofan Li, Xing Wu, Jintao Du, Yu Cheng, Weiqiang Wang, Qiliang Liu, Zhengyang Zhou, Yang Wang. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). <br>
 [[link]](https://arxiv.org/abs/2601.22776)
 [[code]](https://github.com/Flipped-May/TSPO)

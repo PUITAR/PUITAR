@@ -15,7 +15,7 @@ I am a recipient of both the National Scholarship for Undergraduate and Graduate
 
 ## News
 - **[2026/02]** One paper accepted by **ACL 2026** [arXiv](https://arxiv.org/pdf/2601.22776)
-- **[2026/03]** Our open-source multi-agent systems for presentation delivery is coming [DeepSlide](https://github.com/PUITAR/DeepSlide)
+- **[2026/03]** Our open-source multi-agent systems for presentation delivery is coming DeepSlide [(Code)](https://github.com/PUITAR/DeepSlide) [(Paper)](https://arxiv.org/abs/2605.15202)
 - **[2025/09]** New work about LLM RLVR [arXiv](https://www.arxiv.org/abs/2509.25240)
 - **[2025/05]** One paper accpeted by **KDD 2025**
 - **[2024/09]** One paper accepted by **NeurIPS 2024**
@@ -36,6 +36,11 @@ Thirty-eighth Annual Conference on Neural Information Processing Systems. NeurIP
 Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining. KDD 2025. <br>
 [[link]](https://doi.org/10.1145/3711896.3736997) 
 [[code]](https://github.com/PUITAR/Hi-PNG)
+
+- **TSPO: Breaking the Double Homogenization Dilemma in Multi-turn Search Policy Optimization.** <br>
+*Shichao Ma, Zhiyuan Ma, Ming Yang, Xiaofan Li, Xing Wu, Jintao Du, Yu Cheng, Weiqiang Wang, Qiliang Liu, Zhengyang Zhou, Yang Wang. <br>
+The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). <br>
+[[link]](https://arxiv.org/abs/2601.22776)
 
 ## Experience
 - **Ant Group — LLM Application Algorithm Intern (AI4Data, Tiansuan Lab · Jun 2025 – Jan 2026)**

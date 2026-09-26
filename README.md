@@ -18,7 +18,6 @@ I am a recipient of both the National Scholarship for Undergraduate and Graduate
 - **[2026/09]** One paper accepted by **NeurIPS 2026** [arXiv](https://arxiv.org/abs/2604.13902)
 - **[2026/02]** One paper accepted by **ACL 2026** [arXiv](https://arxiv.org/pdf/2601.22776)
 - **[2026/03]** Our open-source multi-agent systems for presentation delivery is coming DeepSlide [(Code)](https://github.com/PUITAR/DeepSlide) [(Paper)](https://arxiv.org/abs/2605.15202)
-- **[2025/09]** New work about LLM RLVR [arXiv](https://www.arxiv.org/abs/2509.25240)
 - **[2025/05]** One paper accpeted by **KDD 2025**
 - **[2024/09]** One paper accepted by **NeurIPS 2024**
 

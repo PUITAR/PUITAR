@@ -15,6 +15,7 @@ My research focuses on LLM/IR related technologies, including
 I am a recipient of both the National Scholarship for Undergraduate and Graduate Students. With an expected graduation in July 2027, I am actively seeking opportunities to contribute to LLM systems, AI reasoning/search, and AI agent products.
 
 ## News
+- **[2026/09]** One paper accepted by **NeurIPS 2026** [arXiv](https://arxiv.org/abs/2604.13902)
 - **[2026/02]** One paper accepted by **ACL 2026** [arXiv](https://arxiv.org/pdf/2601.22776)
 - **[2026/03]** Our open-source multi-agent systems for presentation delivery is coming DeepSlide [(Code)](https://github.com/PUITAR/DeepSlide) [(Paper)](https://arxiv.org/abs/2605.15202)
 - **[2025/09]** New work about LLM RLVR [arXiv](https://www.arxiv.org/abs/2509.25240)
@@ -44,6 +45,10 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 [[link]](https://arxiv.org/abs/2601.22776)
 [[code]](https://github.com/Flipped-May/TSPO)
 
+- **DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off.** <br>
+Xiaofan Li, *Ming Yang*, Zhiyuan Ma, Shichao Ma, Jintao Du, Yu Cheng, Weiqiang Wang, Zhizhong Zhang, Xin Tan, Yanyun Qu, Lizhuang Ma, Yuan Xie. <br>
+The Fortieth Annual Conference on Neural Information Processing Systems. NeurIPS 2026. <br>
+
 ## Experience
 - **Kuaishou KStar Intern ([Unisearch](https://arxiv.org/abs/2509.06887) Group, Mar 2026 – Present)**
   - Generative Retrieval for Industrial-Scale Infomation Retrieval Systems
@@ -64,5 +69,4 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 
 ## Ongoing Research
 - HAMMER: Hamiltonian Curiosity Augmented Large Language Model Reinforcement (first author, under review)
-- DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off (co-author, under review)
 - DeepSlide: From Artifacts to Presentation Delivery (first author, project lead, under review)
